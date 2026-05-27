@@ -56,7 +56,7 @@ I am actively developing hands-on skills to complement my coursework in preparat
 - Physical and logical security system design
 - IT/OT convergence and industrial network principles
 
-I hold the **Google Cybersecurity Certificate** and have obtained the **CompTIA's Security+** certification. I am also pursuing relevant experience through co-op placements begining in September 2026.
+I hold the **Google Cybersecurity Certificate** and have obtained **CompTIA's Security+** certification. I am also pursuing relevant experience through co-op placements begining in September 2026.
 
 
 ## Note on Repository Contents
