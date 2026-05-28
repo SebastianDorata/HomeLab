@@ -1,6 +1,6 @@
 # Homelab Documentation
 
-**Sebastian Dorata** — Honours Information Technology Student, York University  
+**Sebastian Dorata** — B.A., Hons. Information Technology Student, York University  
 Expected Graduation: April 2027
 
 
