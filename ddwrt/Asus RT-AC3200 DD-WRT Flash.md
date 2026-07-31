@@ -20,13 +20,13 @@
 # Router reset 
 ---
 
-1. Reset the router by holding the reset button on the back.<sup>1,2</sup><br>
-   A) Turn off the router.<br>
-   B) Hold the WPS button and turn the router back on.<br>
-   C) Hold the WPS button until the power button flashes.<br>
+1. Reset the router by holding the reset button on the back.<sup>1,2</sup> <br>
+   A) Turn off the router. <br>
+   B) Hold the WPS button and turn the router back on. <br>
+   C) Hold the WPS button until the power button flashes. <br>
    D) Wait until the reset process is completed.
 
-2. Connect my laptop to one of the LAN ports on the router
+2. Connect my laptop to one of the LAN ports on the router <br>
 *I understand <sup>5</sup> instructs readers to use the WAN port, while I did not, I still included it as the thread was referenced*
 
 
@@ -39,8 +39,8 @@
    
 2. On my laptop I set a static IP `192.168.0.10`, subnet mask `255.255.255.0`, and gateway `192.168.1.1`
    
-3. Put the device in recovery mode.<br>
-   A) Unplug power adapter.<br>
+3. Put the device in recovery mode. <br>
+   A) Unplug power adapter. <br>
    B) Hold reset button and plug power adapter back in while holding the reset button.<br>
    C) Keep hold reset until power led blinks slowly.
 
@@ -105,4 +105,5 @@ References
 <sup>6</sup>https://www.snbforums.com/threads/asus-rt-ac66u_b1-cant-get-into-rescue-mode.81757/<br>
 <sup>7</sup>https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/supply-chain-vulnerabilities-sy0-701/<br>
 <sup>8</sup>[Product Documentation](documents/E9670_RT-AC3200_Manual.pdf)
+
 
