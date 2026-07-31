@@ -42,7 +42,7 @@
 3. Put the device in recovery mode. <br>
    A) Unplug power adapter. <br>
    B) Hold reset button and plug power adapter back in while holding the reset button.<br>
-   C) Keep hold reset until power led blinks slowly.
+   C) Keep hold reset until power LED blinks slowly.
 
 4. Go to the mini web server `192.168.1.1`
 
@@ -53,7 +53,7 @@
 7. Go through the setup and reboot the router
 ![Screenshot 2](imgs/init-setup.png)
 
-Note: *Any users with Brave as their default browser and cannot access `192.168.1.1` should use Safari for this section*
+Note: *Any users with Brave as their default browser and who cannot access `192.168.1.1` should use Safari for this section*
 
 <a id="Step-3"></a>
 Security
@@ -83,14 +83,14 @@ Note: *This documentation is for my personal use case. The following configurati
 # Why I started this project
 ---
 <p>
-Yesterday I went to Value village to look for some reference books on some projects I am currently working on. While I was there I stopped by the electronics section to see if there was any sff Dell OptiPlex, Lenovo ThinkCentre, HP elite desks or —if I’m really lucky—a Panasonic DP-UB150/UB154.
+Yesterday I went to Value Village to look for some reference books on some projects I am currently working on. While I was there I stopped by the electronics section to see if there was any sff Dell OptiPlex, Lenovo ThinkCentre, HP EliteDesks or —if I’m really lucky—a Panasonic DP-UB150/UB154.
 </p>
 
 <p>I stumbled upon the Asus RT-AC3200, a few of them actually. Because of the quantity and seeing they are EOL, I figured they were donated by a local business. With that, the price, and dd-wrt support I felt comfortable purchasing it</p>
 
 ![Product](imgs/Product.png)
 
-Use case, undecided. I am thinking of setting up a Radius server and PiHole. 
+Use case, undecided. I am thinking of setting up a RADIUS server and Pi-hole. 
 
 
 
