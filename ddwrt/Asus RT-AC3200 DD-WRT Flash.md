@@ -47,8 +47,8 @@
 4. Go to the mini web server `192.168.1.1`
 
 5. Upload the trx file and flash the router.
-
-![Screen shot 1](imgs/Reset-Confirm.png)
+![Screen shot 1](imgs/Upload.png)
+![Screen shot 2](imgs/Reset-Confirm.png)
 
 7. Go through the setup and reboot the router
 ![Screenshot 2](imgs/init-setup.png)
@@ -104,5 +104,5 @@ References
 <sup>5</sup>https://www.snbforums.com/threads/rt-ac3200-recovery-rescue-mode-ignore-bad-internet-instructions.97018/
 <sup>6</sup>https://www.snbforums.com/threads/asus-rt-ac66u_b1-cant-get-into-rescue-mode.81757/
 <sup>7</sup>https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/supply-chain-vulnerabilities-sy0-701/
-<sup>8</sup>[Product Documentation](E9670_RT-AC3200_Manual.pdf)
+<sup>8</sup>[Product Documentation](documents/E9670_RT-AC3200_Manual.pdf)
 
