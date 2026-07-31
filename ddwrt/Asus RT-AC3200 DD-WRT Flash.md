@@ -47,7 +47,7 @@
 4. Go to the mini web server `192.168.1.1`
 
 5. Upload the trx file and flash the router.
-![Screen shot 1](imgs/Upload.png)
+![Screen shot 1](imgs/upload.png)
 ![Screen shot 2](imgs/Reset-Confirm.png)
 
 7. Go through the setup and reboot the router
