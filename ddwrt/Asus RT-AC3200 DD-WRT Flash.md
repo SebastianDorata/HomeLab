@@ -60,7 +60,7 @@ Security
 ---
 1. Change default credentials.
 2. Disable http and enabled https under `Administration` then `Web Access`
-3. Disable all remote access. [Please see the note in Router Configuration](#Step-3)
+3. Disable all remote access. [Please see the note in Router Configuration](#Step-4)
 
 
 

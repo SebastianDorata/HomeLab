@@ -3,6 +3,8 @@
 **Sebastian Dorata** — B.A., Hons. Information Technology Student, York University  
 Expected Graduation: April 2027
 
+[Skip to view my certificates](#certs)
+
 
 ## About
 
@@ -63,5 +65,12 @@ I hold the **Google Cybersecurity Certificate** and have obtained **CompTIA's Se
 
 VPN config files and switch configuration files containing credentials or sensitive network details are excluded from this repository via `.gitignore`. Only architecture documentation and write-ups are published here.
 
+
+<a id= "certs"></a>
+# My Certificates
+![CompTIA Security+](/Certificates/Sec+.pdf)
+![CompTIA Security+](/Certificates/GoogleSec.pdf)
+![CompTIA Security+](/Certificates/Packet1.pdf)
+![CompTIA Security+](/Certificates/Packet2.pdf)
 
 
