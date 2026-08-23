@@ -14,7 +14,7 @@ Reference for regaining access to a DD-WRT router (RT-AC3200) when locked out of
 - [Help](#help)<br>
 
 
->Note: Do not do this when using RDP, the connection will drop.
+>Note: Do not do this while using RDP, the connection will drop.
 
 ---
 <a id = "overview" ></a>
