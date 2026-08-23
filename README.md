@@ -68,9 +68,11 @@ VPN config files and switch configuration files containing credentials or sensit
 
 <a id= "certs"></a>
 # My Certificates
-![CompTIA Security+](/Certificates/Sec+.pdf)
-![CompTIA Security+](/Certificates/GoogleSec.pdf)
-![CompTIA Security+](/Certificates/Packet1.pdf)
-![CompTIA Security+](/Certificates/Packet2.pdf)
+![CompTIA Security+](/Certificates/imgs/compTIASecurity+.jpg)
+![CompTIA Security+](/Certificates/imgs/GoogleCyberSecurity.jpg)
+![CompTIA Security+](/Certificates/imgs/PacketTracer1.jpg)
+![CompTIA Security+](/Certificates/imgs/PacketTracer2.jpg)
+
+- [pdfs](/Certificates/)
 
 
