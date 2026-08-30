@@ -7,3 +7,4 @@ Table of contents:<br>
 
 1. [Initial flash](Asus_RT-AC3200_DD-WRT_Flash.md)
 2. [Access Recovery](../Troubleshooting/dd-wrt-recovery-access.md)
+3. [SMB NAS](NAS/NetworkAttachedStorage.md)
